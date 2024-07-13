@@ -1,2 +1,2 @@
-npm run prettier
+npx prettier . --write
 git add .
