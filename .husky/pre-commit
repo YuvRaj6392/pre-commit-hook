@@ -1,2 +1,2 @@
-npm run prettier
+yarn prettier
 git add .
